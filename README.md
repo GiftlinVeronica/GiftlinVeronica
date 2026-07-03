@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Giftlin Veronica 👋
 
-<!--
-**GiftlinVeronica/GiftlinVeronica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence & Data Science)
+🏫 JOY University
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning Python, AI and Machine Learning
+- 💡 Passionate about Artificial Intelligence
+- 🎯 Looking for AI and Software Engineering internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- C Programming
+- HTML
+- CSS
+- SQL
+- Artificial Intelligence (Basics)
+- Problem Solving
+
+## Goals
+- Build AI projects
+- Contribute to Open Source
+- Become an AI Engineer at a top tech company
+
+## Contact
+📧 itzz.veroni@gmail.com
